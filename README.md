@@ -11,16 +11,14 @@
 
 - 👉 本手册是开放的，任何人都可以参与编辑、完善、改进、提交、发起 Pull Request。
 - 👉 **在线阅读**本手册 [网站 how.kig.land](https://how.kig.land) 👉 **Github** 仓库 [u-u-z/kigurumi](https://github.com/u-u-z/kigurumi)
+- 👉 [目录页面](./SUMMARY.md)
 
 ## 🧭 快速导航
 
 1. 🐣 [快速入门](get-start.md) - 如果你还没有入手第一个 Kigurumi（或者还在观望），可以来看看这里，这里可以提醒你入门需要知晓的事项
 2. 🏠 [工坊与店家](creator-workshop.md) - 这里收录了一些 Kigurumi 工坊与店家，如果你想要入手一件 Kigurumi，可以来看看这里。
-3. 😋 [开源/免费模型（🚧）- 建设中 🚧](open_source_model.md)
-4. 🐱 [活跃玩家](dalao.md)（🚧） - 有些大佬 ID、链接收录在这里
-5. 🔧 [自制篇](DIY/) - 这里有一些自制的经验分享，如果你想要自制一件 Kigurumi，可以来看看这里。
-6. 🎈 [群组社群](groups.md)（🚧） - 如果你想加一些 Kigurumi 群组、讨论群、Discord。
-7. 🎡 活动篇（🚧）- 这里将会收录一些活动
+3. 😋 [开源/免费模型](open_source_model.md) - 如果您想很快上手制作，开源模型会是快速选择，当然你需要会做假发造型
+4. 🔧 [自制篇](DIY/) - 这里有一些自制的经验分享，如果你想要自制一件 Kigurumi，可以来看看这里。
 
 ## 经验篇
 
@@ -52,7 +50,6 @@
 
 - 通过 Issue 提交建议、问题、需求
 - 通过 Pull Request 参与编辑、完善、改进
-- 通过 QQ 群：903520753（偶域 KigLand™ Kigurumi）等渠道反馈
 
 ### 参与者 & 贡献者
 

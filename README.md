@@ -2,10 +2,10 @@
 
 > 词条：[Kigurumi](kigurumi.md)
 
-这是一个记录 Kigurumi 折腾过程的手册，从入门、自制、活动、社区、店铺等，还有一些经验，希望能覆盖到 Kigurumi 玩家活动的方方面面。
+这是一个记录 Kigurumi 知识、经验、资源的手册，这里有一些关于 Kigurumi 的基础知识、自制经验、活跃玩家、工坊店家、活动等等。致力于成为 **“能覆盖到 Kigurumi 爱好者 play 全生命周期”** 的手册。
 
-- 👉 在线阅读本手册 [网站 how.kig.land](https://how.kig.land)
-- 👉 Github 找到本手册 [u-u-z/kigurumi](https://github.com/u-u-z/kigurumi)
+- 👉 本手册是开放的，任何人都可以参与编辑、完善、改进、提交、发起 Pull Request。
+- 👉 **在线阅读**本手册 [网站 how.kig.land](https://how.kig.land) 👉 **Github** 仓库 [u-u-z/kigurumi](https://github.com/u-u-z/kigurumi)
 
 ## 引导
 
@@ -17,7 +17,7 @@
 6. 🎈 [群组社群](groups.md)（🚧） - 如果你想加一些 Kigurumi 群组、讨论群、Discord。
 7. 🎡 活动篇（🚧）- 这里将会收录一些活动
 
-## 置顶经验
+## 经验篇
 
 | 标题                                                                         | 作者                                            |
 | ---------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -25,7 +25,7 @@
 | [在 Blender 中通过 MMD(PMX)/VRM 制作头壳](./DIY/Tips-for-made-by-pmx-vrm.md) | [Remi IO](https://twitter.com/Remi_IO)          |
 | [自喷漆](./DIY/Tips-for-painting.md)                                         | [Remi IO](https://twitter.com/Remi_IO)          |
 
-## 友情链接
+## 资源网站推荐
 
 这里有其他的友站链接，任意门，有其他的玩家经营的地方，可以去看看
 
@@ -33,9 +33,11 @@
 
 - [KigerHub](https://kigerhub.com/) - 由 kiger 建立的好看，有用，开放的二次元 Kigurumi 门户站。致力于帮助新人，促进交流，让 Kigurumi 获得更多人的认可。
 - [cnkigurumi](http://www.cnkigurumi.com) - 这是一个为爱发电的小网站 “希望可以为你带来快乐”
-- [kigguide](https://kigguide.com/) - a small site dedicated to the kigurumi subculture.
-- [openkig](http://openkig.com/) - Come and share your Kig creations with us on our facebook page! Read More. Downloads. Download a mask and 3d print it up!
-- [kigurumi-animegao.fr](https://kigurumi-animegao.fr/) - Hhosted and developed by Odd_HD in collaboration with Schizu_Emyu to regroup the informations related to the kigurumi hobby.
+- [kigguide](https://kigguide.com/) - 一个致力于 Kigurumi 亚文化的小网站。
+- [openkig](http://openkig.com/) - 来我们的 Facebook 页面分享你的 Kig 作品吧！查看更多。下载。下载一个面具并进行 3D 打印！
+- [kigurumi-animegao.fr](https://kigurumi-animegao.fr/) - 由 Odd_HD 与 Schizu_Emyu 合作托管和开发，旨在汇总与 kigurumi 爱好相关的信息。
+- [Kigurumi Mask Makers](https://makers.kig-o.com/) - 由 Celes Halcyon 编写：作为为动漫脸 Kigurumi（animegao kigurumi）社区提供的服务，我根据网上信息编制了这份 Kigurumi 制作者名单。此名单包含了专业制作者和业余制作者。请注意，这份表格是一个不断更新的文档，所有信息都不保证准确。我不对面具的质量或这些制作者的声誉做任何陈述。一些制作者似乎已经不再活跃，但仍为提供信息的目的列出。
+- [KiguDB](https://kigudb.info/zh) - 一个收录了许多娃娃（玩家）的数据库，可以去随机摇出来一个看看
 
 ## 帮助我们
 

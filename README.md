@@ -1,13 +1,18 @@
-# KIGURUMI 不完全手册
+<center>
+<img src="./assets/awesome_kigurumi_logo.png" width="128"  />
+<h1>KIGURUMI 不完全手册</h1>
+</center>
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > 词条：[Kigurumi](kigurumi.md)
 
-这是一个记录 Kigurumi 知识、经验、资源的手册，这里有一些关于 Kigurumi 的基础知识、自制经验、活跃玩家、工坊店家、活动等等。致力于成为 **“能覆盖到 Kigurumi 爱好者 play 全生命周期”** 的手册。
+这是一个记录 Kigurumi 知识、经验、资源的手册，这里有一些关于 Kigurumi 的基础知识、自制经验、活跃玩家、工坊店家、活动等等。致力于成为 **“能覆盖到 Kigurumi 爱好者 play 的全生命周期”** 手册，也可以称作他为：AWESOME KIGURUMI!!
 
 - 👉 本手册是开放的，任何人都可以参与编辑、完善、改进、提交、发起 Pull Request。
 - 👉 **在线阅读**本手册 [网站 how.kig.land](https://how.kig.land) 👉 **Github** 仓库 [u-u-z/kigurumi](https://github.com/u-u-z/kigurumi)
 
-## 引导
+## 🧭 快速导航
 
 1. 🐣 [快速入门](get-start.md) - 如果你还没有入手第一个 Kigurumi（或者还在观望），可以来看看这里，这里可以提醒你入门需要知晓的事项
 2. 🏠 [工坊与店家](creator-workshop.md) - 这里收录了一些 Kigurumi 工坊与店家，如果你想要入手一件 Kigurumi，可以来看看这里。

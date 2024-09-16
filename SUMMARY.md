@@ -4,7 +4,7 @@
 
 - [👏 欢迎来到《Kigurumi 不完全手册》](README.md)
 - [⚡ 快速入门 Kigurumi](get-start.md)
-
+- [📦 收到 Kigurumi 后](after-getting-kig.md)
 # 生态
 
 - [🏠 工坊与店家](creator-workshop.md)

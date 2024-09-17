@@ -12,7 +12,8 @@
 <div align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <img src="./assets/cover.png" width="200px" style="box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);" />
 </div>
-这是一个记录 Kigurumi 知识、经验、资源的手册，这里有一些关于 Kigurumi 的基础知识、自制经验、活跃玩家、工坊店家、活动等等。致力于成为 **“能覆盖到 Kigurumi 爱好者 play 的全生命周期”** 手册，也可以称作他为：AWESOME KIGURUMI!!
+
+这是一个记录 Kigurumi 知识、经验、资源的手册，这里有一些关于 Kigurumi 的基础知识、自制经验、活跃玩家、工坊店家、活动等等。致力于成为 **能覆盖到 Kigurumi 爱好者 play 的全生命周期** 手册，也可以称作他为：AWESOME KIGURUMI!!
 
 > [how.kig.land](https://how.kig.land) 只是临时域名，未来会迁移到更好的域名。
 

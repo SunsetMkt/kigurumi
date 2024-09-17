@@ -10,7 +10,7 @@
 > 我最近在重新学习玩 Kigurumi，巩固一下细节，也写一个 “AWESOME KIGURUMI 手册”，供小白们使用（KIGURUMI 大佬可以另找教程），每周更新 1-3 讲。
 
 <div align="center" style="margin-top: 40px; margin-bottom: 40px;">
-  <img src="./assets/cover.png" width="200px" style="box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="./assets/readme_cover.png"/>
 </div>
 
 这是一个记录 Kigurumi 知识、经验、资源的手册，这里有一些关于 Kigurumi 的基础知识、自制经验、活跃玩家、工坊店家、活动等等。致力于成为 **能覆盖到 Kigurumi 爱好者 play 的全生命周期** 手册，也可以称作他为：AWESOME KIGURUMI!!
@@ -26,7 +26,7 @@
 
 - [x] 64 ⭐ Self-hosted 网站
 - [ ] 128 ⭐ 内容、章节系统化（**2024/09/17 阶段达成**，正在进行 详见 ISSUES [#14](https://github.com/u-u-z/kigurumi/issues/14)）
-- [ ] 256 ⭐ 进阶内容、创建社群、支持 i18n
+- [ ] 256 ⭐ 进阶内容、创建社群、支持 i18n、真的出个册子？
 - [ ] 512 ⭐ 重建官网、创建沙龙活动
 
 ## 🎯 内容目标、计划

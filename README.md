@@ -121,3 +121,7 @@
 ## 其他
 
 网站使用 [🦀️ Rustacean](https://rustaceans.org/) （Rust 语言开发者们）热爱的 [mdbook](https://github.com/rust-lang/mdBook) 在 [Github Actions](https://github.com/features/actions) 中构建，托管在免费的 [Cloudflare Pages](https://pages.cloudflare.com/) 平台服务，感谢你们！
+
+### 设计资源
+
+- [Figma 设计稿件](https://www.figma.com/design/S2lL4QYDXK0kjAedoSBn3S/AWESOME-KIGURUMI?node-id=41-7&t=1lthazlnoGYFwanx-1)

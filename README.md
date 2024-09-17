@@ -58,11 +58,15 @@
 | [在 Blender 中通过 MMD(PMX)/VRM 制作头壳](./DIY/Tips-for-made-by-pmx-vrm.md) | [Remi IO](https://twitter.com/Remi_IO)          |
 | [自喷漆](./DIY/Tips-for-painting.md)                                         | [Remi IO](https://twitter.com/Remi_IO)          |
 
-## 资源网站推荐
+## 资源推荐
 
 这里有其他的友站链接，任意门，有其他的玩家经营的地方，可以去看看
 
+> 默认 SFW，⚠️ 则代表存在 NSFW 内容（非特殊情况暂时不在本文收录）
+>
 > 排名不分先后
+
+### 网站
 
 - [KigerHub](https://kigerhub.com/) - 由 kiger 建立的好看，有用，开放的二次元 Kigurumi 门户站。致力于帮助新人，促进交流，让 Kigurumi 获得更多人的认可。
 - [cnkigurumi](http://www.cnkigurumi.com) - 这是一个为爱发电的小网站 “希望可以为你带来快乐”
@@ -71,6 +75,10 @@
 - [kigurumi-animegao.fr](https://kigurumi-animegao.fr/) - 由 Odd_HD 与 Schizu_Emyu 合作托管和开发，旨在汇总与 kigurumi 爱好相关的信息。
 - [Kigurumi Mask Makers](https://makers.kig-o.com/) - 由 Celes Halcyon 编写：作为为动漫脸 Kigurumi（animegao kigurumi）社区提供的服务，我根据网上信息编制了这份 Kigurumi 制作者名单。此名单包含了专业制作者和业余制作者。请注意，这份表格是一个不断更新的文档，所有信息都不保证准确。我不对面具的质量或这些制作者的声誉做任何陈述。一些制作者似乎已经不再活跃，但仍为提供信息的目的列出。
 - [KiguDB](https://kigudb.info/zh) - 一个收录了许多娃娃（玩家）的数据库，可以去随机摇出来一个看看
+
+### 频道
+
+- [Kigurumi Collection](https://t.me/moekig) - 一个 Telegram 频道，分享 Kigurumi 的图片、视频、资源等等。（也是能够参与本仓库直属 TG Group 关联频道）
 
 ## 帮助我们
 

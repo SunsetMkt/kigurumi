@@ -31,6 +31,10 @@
 
 ## 目录
 
+### 入门
+
+**第一节：[Hello Kigurumi](./01_HelloKigurumi/readme.md)**
+
 ## 🎯 内容目标、计划
 
 - [ ] 能够让玩家 [快速入门](./get-start.md)（待翻新）
@@ -114,10 +118,11 @@ Github 用户
 <img src="https://contrib.rocks/image?repo=u-u-z/kigurumi" />
 </a>
 
-非 Github 用户 / 贡献者
+非 Github 用户贡献者
 
 - [ロントン](https://x.com/rorutorosarmon) - 手册封面图片作者，[作品](https://x.com/rorutorosarmon/status/1753357039844380917)
 - [@q2967922096](https://twitter.com/q2967922096)
+- [长庚伴月（千折）](https://x.com/TobiichiChisato)
 
 ## 其他 & 资源
 

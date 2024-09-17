@@ -6,6 +6,10 @@
 - [⚡ 快速入门 Kigurumi](get-start.md)
 - [📦 收到 Kigurumi 后](after-getting-kig.md)
 
+# 入门
+
+- [第一节：Hello Kigurumi](01_HelloKigurumi/readme.md)
+
 # 生态
 
 - [🏠 工坊与店家](creator-workshop.md)

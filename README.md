@@ -59,11 +59,9 @@
 
 ## 经验篇
 
-| 标题                                                                         | 作者                                            |
-| ---------------------------------------------------------------------------- | ----------------------------------------------- |
-| [关于通过 FDM 制作头壳的小技巧](./DIY/Tips-for-FDM.md)                       | [@q2967922096](https://twitter.com/q2967922096) |
-| [在 Blender 中通过 MMD(PMX)/VRM 制作头壳](./DIY/Tips-for-made-by-pmx-vrm.md) | [Remi IO](https://twitter.com/Remi_IO)          |
-| [自喷漆](./DIY/Tips-for-painting.md)                                         | [Remi IO](https://twitter.com/Remi_IO)          |
+1. [关于通过 FDM 制作头壳的小技巧](./DIY/Tips-for-FDM.md) by [@q2967922096](https://twitter.com/q2967922096)
+2. [在 Blender 中通过 MMD(PMX)/VRM 制作头壳](./DIY/Tips-for-made-by-pmx-vrm.md)
+3. [自喷漆](./DIY/Tips-for-painting.md)
 
 ## 资源推荐
 

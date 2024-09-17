@@ -110,6 +110,7 @@
 
 ### 非 Github 用户 / 贡献者
 
+- [ロントン](https://x.com/rorutorosarmon) - 手册封面图片作者，[作品](https://x.com/rorutorosarmon/status/1753357039844380917)
 - [@q2967922096](https://twitter.com/q2967922096)
 
 ## 旧版内容（2021 年前）

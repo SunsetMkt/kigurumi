@@ -91,37 +91,38 @@
 
 这个手册是开放的，任何人都可以参与编辑、完善、改进、提交、发起 Pull Request。**若有内容错误、不当、过时或者冒犯到您，请您务必告知我们，我们会尽快处理。**
 
-### 赞助方与合作伙伴
-
-<a href="https://kig.land" target="_blank">
-  <img src="https://github.com/kigland.png" width="64"/>
-</a>
-
-### 如何参与
+如何参与：
 
 - 通过 Issue 提交建议、问题、需求
 - 通过 Pull Request 参与编辑、完善、改进
 - 通过 [Telegram 群组](https://t.me/awesome_kig) 、[Twitter](https://x.com/Remi_IO) 等社交媒体联系贡献者
 
-### 参与者 & 贡献者 （Github 用户）
+### 赞助方与合作伙伴
 
-<a href="https://github.com/u-u-z/kigurumi/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=u-u-z/kigurumi" />
+<a href="https://kig.land" target="_blank">
+  <img src="https://github.com/kigland.png" width="64"/>
+</a>
+<a href="https://github.com/dualization.png" target="_blank">
+  <img src="https://github.com/dualization.png" width="64"/>
 </a>
 
-### 非 Github 用户 / 贡献者
+### 参与者 & 贡献者
+
+Github 用户
+
+<a href="https://github.com/u-u-z/kigurumi/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=u-u-z/kigurumi" />
+</a>
+
+非 Github 用户 / 贡献者
 
 - [ロントン](https://x.com/rorutorosarmon) - 手册封面图片作者，[作品](https://x.com/rorutorosarmon/status/1753357039844380917)
 - [@q2967922096](https://twitter.com/q2967922096)
 
-## 旧版内容（2021 年前）
-
-[AWESOME KIGURUMI!!](old_content/)
-
-## 其他
+## 其他 & 资源
 
 网站使用 [🦀️ Rustacean](https://rustaceans.org/) （Rust 语言开发者们）热爱的 [mdbook](https://github.com/rust-lang/mdBook) 在 [Github Actions](https://github.com/features/actions) 中构建，托管在免费的 [Cloudflare Pages](https://pages.cloudflare.com/) 平台服务，感谢你们！
 
-### 设计资源
+设计资源：
 
 - [Figma 设计稿件](https://www.figma.com/design/S2lL4QYDXK0kjAedoSBn3S/AWESOME-KIGURUMI?node-id=41-7&t=1lthazlnoGYFwanx-1)

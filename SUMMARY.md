@@ -5,6 +5,7 @@
 - [👏 欢迎来到《Kigurumi 不完全手册》](README.md)
 - [⚡ 快速入门 Kigurumi](get-start.md)
 - [📦 收到 Kigurumi 后](after-getting-kig.md)
+
 # 生态
 
 - [🏠 工坊与店家](creator-workshop.md)
@@ -12,6 +13,7 @@
 
 # 自制 Kigurumi
 
+- [😋 开源/免费模型](open_source_model.md)
 - [🛠 自制篇](DIY/README.md)
   - [通过 FDM 制作头壳的小技巧](./DIY/Tips-for-FDM.md) --作者：[@q2967922096](https://twitter.com/q2967922096)
   - [ MMD(PMX)/VRM 制作头壳 (blender)](./DIY/Tips-for-made-by-pmx-vrm.md) --作者：[Remi IO](https://twitter.com/Remi_IO)

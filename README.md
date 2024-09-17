@@ -78,7 +78,9 @@
 
 ### 赞助方与合作伙伴
 
-<img src="https://github.com/kigland.png" width="64"/>
+<a href="https://kig.land" target="_blank">
+  <img src="https://github.com/kigland.png" width="64"/>
+</a>
 
 ### 如何参与
 

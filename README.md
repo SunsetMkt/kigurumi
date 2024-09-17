@@ -14,6 +14,7 @@
 - 👉 本手册是开放的，任何人都可以参与编辑、完善、改进、提交、发起 Pull Request。
 - 👉 **在线阅读**本手册 [网站 how.kig.land](https://how.kig.land) 👉 **Github** 仓库 [u-u-z/kigurumi](https://github.com/u-u-z/kigurumi)
 - 👉 [目录页面](./SUMMARY.md)
+- 手册的许可证采用 [知识共享协议（署名-相同方式共享 3.0 中国大陆）](./LICENSE.md)
 
 ## 🛣️ 路线图
 

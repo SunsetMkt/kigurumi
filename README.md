@@ -7,6 +7,8 @@
 
 > 词条：[Kigurumi](kigurumi.md)
 
+> 我最近在重新学习玩 Kigurumi，巩固一下细节，也写一个 “AWESOME KIGURUMI 手册”，供小白们使用（KIGURUMI 大佬可以另找教程），每周更新 1-3 讲。
+
 这是一个记录 Kigurumi 知识、经验、资源的手册，这里有一些关于 Kigurumi 的基础知识、自制经验、活跃玩家、工坊店家、活动等等。致力于成为 **“能覆盖到 Kigurumi 爱好者 play 的全生命周期”** 手册，也可以称作他为：AWESOME KIGURUMI!!
 
 > [how.kig.land](https://how.kig.land) 只是临时域名，未来会迁移到更好的域名。

@@ -9,6 +9,8 @@
 
 这是一个记录 Kigurumi 知识、经验、资源的手册，这里有一些关于 Kigurumi 的基础知识、自制经验、活跃玩家、工坊店家、活动等等。致力于成为 **“能覆盖到 Kigurumi 爱好者 play 的全生命周期”** 手册，也可以称作他为：AWESOME KIGURUMI!!
 
+> [how.kig.land](https://how.kig.land) 只是临时域名，未来会迁移到更好的域名。
+
 - 👉 本手册是开放的，任何人都可以参与编辑、完善、改进、提交、发起 Pull Request。
 - 👉 **在线阅读**本手册 [网站 how.kig.land](https://how.kig.land) 👉 **Github** 仓库 [u-u-z/kigurumi](https://github.com/u-u-z/kigurumi)
 - 👉 [目录页面](./SUMMARY.md)
@@ -74,17 +76,25 @@
 
 这个手册是开放的，任何人都可以参与编辑、完善、改进、提交、发起 Pull Request。**若有内容错误、不当、过时或者冒犯到您，请您务必告知我们，我们会尽快处理。**
 
+### 赞助方与合作伙伴
+
+<img src="https://github.com/kigland.png" width="64"/>
+
 ### 如何参与
 
 - 通过 Issue 提交建议、问题、需求
 - 通过 Pull Request 参与编辑、完善、改进
 - 通过 [Telegram 群组](https://t.me/awesome_kig) 、[Twitter](https://x.com/Remi_IO) 等社交媒体联系贡献者
 
-### 参与者 & 贡献者
+### 参与者 & 贡献者 （Github 用户）
 
 <a href="https://github.com/u-u-z/kigurumi/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=u-u-z/kigurumi" />
 </a>
+
+### 非 Github 用户 / 贡献者
+
+- [@q2967922096](https://twitter.com/q2967922096)
 
 ## 旧版内容（2021 年前）
 

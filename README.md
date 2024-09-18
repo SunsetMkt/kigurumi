@@ -36,7 +36,7 @@
 
 **第 1 节：Hello Kigurumi | [进入章节](./01_HelloKigurumi/)**
 
-**第 2 节：搞一个 Kigurumi 产品 | [进入章节](./02_GetKigurumi/)**
+**第 2 节：搞到 Kigurumi | [进入章节](./02_GetKigurumi/)**
 
 **第 3 节：与店家撕逼 | 计划中...**
 

@@ -3,8 +3,6 @@
 # Kigurumi 不完全手册
 
 - [👏 欢迎来到《Kigurumi 不完全手册》](README.md)
-- [⚡ 快速入门 Kigurumi](get-start.md)
-- [📦 收到 Kigurumi 后](after-getting-kig.md)
 
 # 入门
 
@@ -29,7 +27,9 @@
 
 - [群组社群](groups.md)
 
-# 陈旧的内容（已作废）
+# 曾经的内容
 
+- [⚡ 快速入门 Kigurumi](get-start.md)
+- [📦 收到 Kigurumi 后](after-getting-kig.md)
 - [AWESOME KIGURUMI!!](old_content/README.md)
 - [在可以采购物品的店铺（大陆）](old_content/SHOP.md)

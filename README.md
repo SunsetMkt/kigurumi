@@ -35,7 +35,7 @@
 
 **第 1 节：Hello Kigurumi | [进入章节](./01_HelloKigurumi/readme.md)**
 
-**第 2 节：搞一个 Kigurumi 产品 | 计划中...**
+**第 2 节：搞一个 Kigurumi 产品 | [进入章节](./02_GetKigurumi/readme.md)**
 
 **第 3 节：维护与注意事项 | 计划中...**
 

@@ -8,7 +8,8 @@
 
 # 入门
 
-- [第一节：Hello Kigurumi](01_HelloKigurumi/readme.md)
+- [第 1 节：Hello Kigurumi](01_HelloKigurumi/readme.md)
+- [第 2 节：搞一个 Kigurumi](02_GetKigurumi/readme.md)
 
 # 生态
 

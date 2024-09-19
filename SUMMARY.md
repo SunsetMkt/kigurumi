@@ -8,6 +8,7 @@
 
 - [第 1 节：Hello Kigurumi](01_HelloKigurumi/readme.md)
 - [第 2 节：搞到 Kigurumi](02_GetKigurumi/readme.md)
+- [第 3 节：与店家撕逼](03_StoreChallenge/readme.md)
 
 # 生态
 
